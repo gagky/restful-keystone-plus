@@ -28,7 +28,8 @@
     "bluebird": "^2.9.9",
     "require-directory": "^2.0.0",
     "node-constants": "0.0.2",
-    "deepmerge": "^0.2.7"
+    "deepmerge": "^0.2.7",
+    "underscore": "*"
   },
   "peerDependencies": {
     "keystone": "^0.3.0"
