@@ -31,9 +31,6 @@
     "deepmerge": "^0.2.7",
     "underscore": "*"
   },
-  "peerDependencies": {
-    "keystone": "^0.3.0"
-  },
   "devDependencies": {
     "grunt-cli": "^0.1.13",
     "grunt-contrib-jshint": "^0.10.0",
